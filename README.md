@@ -1,4 +1,4 @@
-# Detalle de la siolución implementada.
+# Detalle de la solución implementada.
 
 Swagger
 Java 8+
